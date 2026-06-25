@@ -75,5 +75,5 @@ The dashboard includes:
 ---
 
 ## 👤 Author 
-Rebaona Radebe
+Rebaona Radebe.
 Built as part of a personal data analytics learning journey .
